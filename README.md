@@ -1,6 +1,6 @@
 # [Black-Friday-Sale](https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale)
 
-
+![](https://github.com/Alimomeni2000/Black-Friday-Sale/blob/main/plotFiles/Pu.png)
 
 ##Dataset History
 
