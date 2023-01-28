@@ -1,5 +1,7 @@
 # [Black-Friday-Sale](https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale)
-![](https://github.com/Alimomeni2000/Black-Friday-Sale/blob/main/plotFiles/blackfriday.png)
+
+
+
 ##Dataset History
 
 A retail company “ABC Private Limited” wants to understand the customer purchase behavior (specifically, purchase amount) against various products of different categories. They have shared purchase summaries of various customers for selected high-volume products from last month.
